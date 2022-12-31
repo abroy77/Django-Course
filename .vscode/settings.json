@@ -1,0 +1,6 @@
+{
+    "html.format.templating": true,
+    "[django-html]": {
+        "editor.linkedEditing": true
+    }
+}
